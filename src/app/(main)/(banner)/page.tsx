@@ -20,10 +20,10 @@ export default function Home() {
             width={150}
             height={48}
             alt="chatbubble"
-            className="mb-4 mt-[39px] animate-fadeInDelay opacity- sm:block hidden"
+            className="mb-4 mt-[39px] animate-fadeInDelay opacity-0 sm:block hidden"
           />
           <Image
-            src="/chatbubblemobile.png"
+            src="/chatBubblemobile.png"
             width={150}
             height={48}
             alt="chatbubble"
@@ -55,7 +55,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex-col gap-6 items-center w-fit animate-fadeIn sm:flex hidden">
-          <Image src={'/chatbubbletwo.png'} width={153} height={51} alt="chatbubble2" />
+          <Image src={'/chatBubbletwo.png'} width={153} height={51} alt="chatbubble2" />
           <div className="flex items-center">
             <Image src={'/caret-right.svg'} width={32} height={32} alt="caret rigth" />
             <div className="flex relative">
