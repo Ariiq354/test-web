@@ -55,7 +55,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex-col gap-6 items-center w-fit animate-fadeIn sm:flex hidden">
-          <Image src={'/chatbubble2.png'} width={153} height={51} alt="chatbubble2" />
+          <Image src={'/chatbubbletwo.png'} width={153} height={51} alt="chatbubble2" />
           <div className="flex items-center">
             <Image src={'/caret-right.svg'} width={32} height={32} alt="caret rigth" />
             <div className="flex relative">
