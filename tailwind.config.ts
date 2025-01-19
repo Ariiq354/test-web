@@ -24,7 +24,7 @@ export default {
         fadeInUp: 'fadeInUp 0.5s ease-in-out',
         fadeInDelay: 'fadeIn 0.5s ease-in-out 300ms forwards',
         fadeIn: 'fadeIn 0.5s ease-in-out',
-        stepScroll: 'stepScroll 30s infinite',
+        stepScroll: 'stepScroll 30s ease-in-out 500ms infinite',
       },
       keyframes: {
         fadeInUp: {
